@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Izziabby
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... iabilheira@olin.edu
+## Hi, I’m @Izziabby
+I am currently a junior at Olin College of Engineering studying **Electrical and Computer Engineering**.
+
+---
+
+Contact Me:
+
 
 <!---
 Izziabby/Izziabby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
