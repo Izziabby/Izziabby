@@ -1,5 +1,5 @@
 ## Hi, I’m @Izziabby
-I am currently a junior at Olin College of Engineering studying **Electrical and Computer Engineering**.
+I am currently a seniorat Olin College of Engineering studying **Electrical and Computer Engineering**.
 
 ---
 
