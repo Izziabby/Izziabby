@@ -3,7 +3,7 @@ I have as B.S. in **Electrical and Computer Engineering** from Olin College of E
 
 ---
 
-Contact Me:
+Contact Me: iabilheira@gmail.com
 
 
 <!---
