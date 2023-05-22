@@ -1,5 +1,5 @@
 ## Hi, I’m @Izziabby
-I am currently a seniorat Olin College of Engineering studying **Electrical and Computer Engineering**.
+I have as B.S. in **Electrical and Computer Engineering** from Olin College of Engineering studying.
 
 ---
 
