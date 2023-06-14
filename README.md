@@ -1,5 +1,5 @@
 ## Hi, I’m @Izziabby
-I have as B.S. in **Electrical and Computer Engineering** from Olin College of Engineering studying.
+I have as B.S. in **Electrical and Computer Engineering** from Olin College of Engineering.
 
 ---
 
